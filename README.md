@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Geospatial Analyst and Geo-Information Scientist
 ------------------------------------------------
 
-I am currently a fellow of Arewa Data Science
+I am a Geospatial Analyst and Geo-Information Scientist with 12 years of experience in studying and applying Geo-Information Science. Currently, I am focused on learning R and Python programming for the past three years.
+
+I am Currently a fellow of Arewa Data Science.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [abdulrasheed.abdulraheem.a@gmail.com](mailto:abdulrasheed.abdulraheem.a@gmail.com)
